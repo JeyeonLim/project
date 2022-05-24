@@ -1,0 +1,123 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  padding: 20px;
+}
+form {
+  position: relative;
+  left: 20px;
+  padding: 20px;
+}
+h3 {
+  font-weight: bold;
+  color: #596aca;
+  position: relative;
+
+  left: 30px;
+}
+.text {
+  border-color: lightskyblue;
+  border-style: solid;
+  position: relative;
+  right: 20px;
+}
+.search {
+  color: #006ec5;
+  background-color: white;
+  font-weight: bold;
+  border-color: #006ec5;
+  border-style: solid;
+  position: relative;
+  right: 20px;
+}
+.search:hover {
+  color: white;
+  background-color: #006ec5;
+}
+.fa-solid {
+  font-size: 100px;
+  color: rgb(108, 108, 194);
+  position: relative;
+  top: -120px;
+  left: 300px;
+}
+h6 {
+  position: relative;
+  top: -130px;
+  left: 320px;
+  font-weight: bold;
+  color: rgb(73, 73, 138);
+  opacity: 70%;
+  margin: 0;
+}
+h7 {
+  position: relative;
+  top: -110px;
+  left: 50px;
+  font-weight: bold;
+  color: rgb(73, 73, 138);
+  opacity: 70%;
+}
+.circle {
+  width: 80px;
+  height: 80px;
+  line-height: 80px;
+  border-radius: 50%;
+  font-size: 30px;
+  color: #fff;
+  text-align: center;
+  background: rgb(125, 125, 207);
+  position: relative;
+  left: 50px;
+  top: 10px;
+}
+
+.cf {
+  position: relative;
+  font-size: 15px;
+
+  color: grey;
+  right: 85px;
+  top: -40px;
+  margin: 0 auto;
+}
+a {
+  text-decoration: none;
+}
+.row {
+  position: relative;
+
+  padding: 10px;
+  top: -130px;
+}
+.card {
+  width: 500px;
+  height: 380px;
+  margin: 20px auto;
+  background-color: white;
+}
+.col {
+  text-align: center;
+  font-weight: bold;
+  color: rgb(63, 63, 63);
+  border-color: rgb(158, 151, 245);
+  border-style: solid;
+  border-radius: 5%;
+  margin: 5px;
+}
+
+.current {
+  position: relative;
+  right: 20px;
+  width: 70px;
+
+  font-weight: bold;
+  color: white;
+  background-color: #006ec5;
+  border-color: #006ec5;
+  border-style: solid;
+}
+
+.current:hover {
+  color: #006ec5;
+  background-color: white;
+}
