@@ -49,7 +49,7 @@ h6 {
   opacity: 70%;
   margin: 0;
 }
-h7 {
+.date {
   position: relative;
   top: -110px;
   left: 50px;
@@ -73,7 +73,7 @@ h7 {
 
 .cf {
   position: relative;
-  font-size: 15px;
+  font-size: 20px;
 
   color: grey;
   right: 85px;
@@ -89,12 +89,16 @@ a {
   padding: 10px;
   top: -130px;
 }
+.container {
+  margin: 0 auto;
+}
 .card {
   width: 500px;
   height: 380px;
   margin: 20px auto;
   background-color: white;
 }
+
 .col {
   text-align: center;
   font-weight: bold;
@@ -120,4 +124,11 @@ a {
 .current:hover {
   color: #006ec5;
   background-color: white;
+}
+
+.link {
+  color: grey;
+  font-size: 12px;
+  position: relative;
+  top: -120px;
 }
